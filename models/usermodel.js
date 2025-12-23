@@ -1,3 +1,4 @@
+//normal without database
 let users=[
     {id:1,name:"faizan"},
     {id:2,name:"khalid"},
